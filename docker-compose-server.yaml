@@ -1,0 +1,9 @@
+version: "3.9"
+
+services:
+  app:
+    image: gelli4ka/flask-app
+    ports:
+      - 80:80
+
+
